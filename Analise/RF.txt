@@ -1,0 +1,26 @@
+RF01 Cadastrar Membro
+RF02 Alterar Membro
+RF03 Excluir Membro
+RF04 Tornar Músico
+RF05 Revogar Músico
+RF06 Cadastrar Banda
+RF07 Consultar Banda
+RF08 Alterar Banda
+RF09 Excluir Banda
+RF10 Acessar Banda
+RF11 Acessar Chat
+RF12 Seguir (Follow)
+RF13 Criar Postagem
+RF14 Alterar Postagem
+RF15 Excluir Postagem
+RF16 Visualizar Postagem
+RF17 Subir Arquivo (Upload File)
+RF18 Baixar Arquivo (Download File)
+RF19 Reproduzir Mídia (Áudio/Vídeo)
+RF20 Excluir Arquivo
+RF21 Criar album
+RF22 Alterar album
+RF23 Excluir album
+RF24 Visualizar album
+RF25 Abrir e encerrar proposta
+RF26 Efetuar avaliação
